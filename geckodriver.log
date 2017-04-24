@@ -1,0 +1,36 @@
+1493005617475	geckodriver	INFO	Listening on 127.0.0.1:49416
+1493005618480	mozprofile::profile	INFO	Using profile path /var/folders/xj/1mgymmh108v3fr50ygh42rn80000gn/T/rust_mozprofile.CvuLlRn7Yp33
+1493005618481	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1493005618497	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49425
+1493005620765	Marionette	INFO	Listening on port 49425
+1493005620877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1493005629394	Marionette	INFO	New connections will no longer be accepted
+1493005671253	geckodriver	INFO	Listening on 127.0.0.1:49502
+1493005672258	mozprofile::profile	INFO	Using profile path /var/folders/xj/1mgymmh108v3fr50ygh42rn80000gn/T/rust_mozprofile.vAgQm7civiJP
+1493005672259	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1493005672262	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49508
+1493005674115	Marionette	INFO	Listening on port 49508
+1493005674168	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-24 11:47:54.718 plugin-container[3993:334965] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x925f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-24 11:47:54.718 plugin-container[3993:334965] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x931f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-24 11:47:54.718 plugin-container[3993:334965] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1493005676936	Marionette	INFO	New connections will no longer be accepted
+1493006104665	geckodriver	INFO	Listening on 127.0.0.1:49638
+1493006105664	mozprofile::profile	INFO	Using profile path /var/folders/xj/1mgymmh108v3fr50ygh42rn80000gn/T/rust_mozprofile.9zDThlIpfHZg
+1493006105665	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1493006105668	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49644
+1493006107595	Marionette	INFO	Listening on port 49644
+1493006107653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1493006114411	Marionette	INFO	New connections will no longer be accepted
+1493007075968	geckodriver	INFO	Listening on 127.0.0.1:49978
+1493007076948	mozprofile::profile	INFO	Using profile path /var/folders/xj/1mgymmh108v3fr50ygh42rn80000gn/T/rust_mozprofile.yCFmQy3fRpNQ
+1493007076950	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1493007076965	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49984
+1493007078930	Marionette	INFO	Listening on port 49984
+1493007079018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493007082918	Marionette	INFO	New connections will no longer be accepted

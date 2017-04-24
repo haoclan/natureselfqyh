@@ -1,0 +1,15 @@
+网址：http://v2.evahealth.net:3000  系统网址
+各个控件网址：
+
+
+
+
+----------------------
+/usr/local/bin 里有
+geckodriver 和 chromedriver  2个linux可执行文件
+
+
+给自己配置一个git 然后就方便了，单位和家里 文件夹的统一
+来一个git
+git:  https://github.com/haoclan/natureselfqyh.git
+
